@@ -1,0 +1,5 @@
+Comparaison
+
+ArrayList is best for random access and end insertions/deletions.
+LinkedList is best for frequent insertions/deletions at any position.
+For mixed workloads, ArrayList generally performs better due to lower overhead and better cache locality.
